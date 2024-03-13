@@ -38,12 +38,13 @@ padding-top:10px;
     color: #5c5c8a;
 }
 h3 {
-	color: #ff3333;\}
-    a {
-        white-space: nowrap;
-        overflow: hidden;
-        overflow-wrap: normal;
-        text-overflow: ellipsis;
-        display: block;
-      }
+	color: #ff3333;
+}
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: underline; }
+a:active { text-decoration: underline; }
+li {
+    margin: 7px 0;
+  }
 </style>
