@@ -45,6 +45,6 @@ a:visited { text-decoration: none; }
 a:hover { text-decoration: underline; }
 a:active { text-decoration: underline; }
 li {
-    margin: 7px 0;
+    margin: 0px 0;
   }
 </style>
