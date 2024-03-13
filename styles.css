@@ -1,0 +1,49 @@
+<style type="text/css">
+@font-face { 
+    font-family: 'Arial Rounded Bold'; 
+    src: url(Arial Rounded Bold.ttf); } 
+
+p.customfont{
+    font-family:'Arial Rounded Bold', sans-serif
+}
+body {
+ background-image: url(/asset/bg-meadow-web.png), url(/asset/bg-meadow-web-green.png); 
+ background-size:100%,auto;
+ background-position: top, bottom;
+ 
+ background-repeat: no-repeat, repeat;
+   margin-top: 0;
+    margin-bottom: 0;
+    
+}
+
+#page {
+  background-color: white;
+  background-repeat: repeat;
+    font-family: 'Arial Rounded Bold', sans-serif;
+    text-align: center;
+    max-width: 540px;
+    min-height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+h1 {
+padding-top:10px;
+    font-variant: small-caps;
+    color: #5c5c8a;
+}
+h3 {
+	color: #ff3333;\}
+    a {
+        white-space: nowrap;
+        overflow: hidden;
+        overflow-wrap: normal;
+        text-overflow: ellipsis;
+        display: block;
+      }
+</style>
