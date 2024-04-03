@@ -4,6 +4,12 @@
     <link>https://www.cutebotcalendar.com</link>
     <description>The Cutebot Calendar by Matthew McGuigan.</description>
     <item>
+      <title>An appearance</title>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 -0600</pubDate>
+      <description>&lt;a href="https://www.cutebotcalendar.com/cc/2024-04-03.html"&gt;&lt;img width="300" height="auto" src="https://www.cutebotcalendar.com/asset/cc/cc_2024_4_3.png" /&gt;&lt;/a&gt;&lt;br/&gt;April 3, 2024. "An appearance"</description>
+      <link>https://www.cutebotcalendar.com/cc/2024-04-03.html</link>
+    </item>
+    <item>
       <title>An interruption</title>
       <pubDate>Tue, 02 Apr 2024 00:00:00 -0600</pubDate>
       <description>&lt;a href="https://www.cutebotcalendar.com/cc/2024-04-02.html"&gt;&lt;img width="300" height="auto" src="https://www.cutebotcalendar.com/asset/cc/cc_2024_4_2.png" /&gt;&lt;/a&gt;&lt;br/&gt;April 2, 2024. "An interruption"</description>
@@ -176,12 +182,6 @@
       <pubDate>Tue, 05 Dec 2023 00:00:00 -0700</pubDate>
       <description>&lt;a href="https://www.cutebotcalendar.com/cc/2023-12-05.html"&gt;&lt;img width="300" height="auto" src="https://www.cutebotcalendar.com/asset/cc/cc_2023_12_05.png" /&gt;&lt;/a&gt;&lt;br/&gt;December 5, 2023. "I can lend you the &amp;#39;Ten Gallon Clucker&amp;#39; aw dang it&amp;#39;s the FEELS again... ...don&amp;#39;t even got a silly hat to get me through it"</description>
       <link>https://www.cutebotcalendar.com/cc/2023-12-05.html</link>
-    </item>
-    <item>
-      <title>so sorry... I require... maintenance today... YES! because you are a thing of QUALITY!</title>
-      <pubDate>Mon, 04 Dec 2023 00:00:00 -0700</pubDate>
-      <description>&lt;a href="https://www.cutebotcalendar.com/cc/2023-12-04.html"&gt;&lt;img width="300" height="auto" src="https://www.cutebotcalendar.com/asset/cc/cc_2023_12_04.png" /&gt;&lt;/a&gt;&lt;br/&gt;December 4, 2023. "so sorry... I require... maintenance today... YES! because you are a thing of QUALITY!"</description>
-      <link>https://www.cutebotcalendar.com/cc/2023-12-04.html</link>
     </item>
   </channel>
 </rss>
