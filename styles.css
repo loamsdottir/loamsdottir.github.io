@@ -1,7 +1,7 @@
-<style type="text/css">
 @font-face { 
     font-family: 'Arial Rounded Bold'; 
-    src: url(Arial Rounded Bold.ttf); } 
+    src:url('Arial Rounded Bold.ttf') 
+  } 
 
 p.customfont{
     font-family:'Arial Rounded Bold', sans-serif
@@ -47,4 +47,4 @@ a:active { text-decoration: underline; }
 li {
     margin: 0px 0;
   }
-</style>
+
