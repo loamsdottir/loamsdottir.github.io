@@ -34,13 +34,12 @@ body {
 
 h1 {
   padding-top:10px;
-  font-family: 'Arial Rounded Bold', sans-serif
-    font-variant: small-caps;
-    color: #5c5c8a;
+  font-family:'Arial Rounded Bold', sans-serif;
+      color: #5c5c8a;
 }
 h3 {
 	color: #ff3333;
-  font-family: 'Arial Rounded Bold', sans-serif
+  font-family:'Arial Rounded Bold', sans-serif
 }
 a:link { text-decoration: none; }
 a:visited { text-decoration: none; }
