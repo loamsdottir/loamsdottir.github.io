@@ -104,7 +104,6 @@ def process_alt_data(comic_data, cutoff_date):
     with open(path, encoding='utf-8', mode="a") as file:
         for c in comic_data:
             if c.has_alt: continue
-            print(c)
             file.write(c.date.strftime("%Y-%m-%d") + " " + c.alt + "\n")
 
 def find_next_prev(data):
