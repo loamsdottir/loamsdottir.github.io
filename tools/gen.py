@@ -119,9 +119,9 @@ def find_next_prev(data):
                 data[i].prev = data[i+1]
         if i == 0:
             data[i].month_header = data[i].date.strftime("%B %Y")
-        elif i != len(data) - 1:
-            d1 = data[i].date.replace(day=1)
-            d2 = data[i+1].date.replace(day=1)
+        else:
+            d1 = data[i-1].date.replace(day=1)
+            d2 = data[i].date.replace(day=1)
             if d1 != d2:
                 data[i].month_header = data[i].date.strftime("%B %Y")
 

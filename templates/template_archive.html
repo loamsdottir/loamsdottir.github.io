@@ -31,9 +31,9 @@
       <li><h3>{{ c.month_header }}</h3></li>
       {% endif %}
       <li>
-        {% set alt_title = c.date.strftime('%d') + ' ' + c.alt %}
-        {% set title = alt_title %}
-        {% if title|length > 60 %}
+        {% set alt_title = c.alt %}
+        {% set title = c.date.strftime('%d') + ' ' + c.alt %}
+        {% if c.alt|length > 60 %}
           {% set title = title[:title.index(' ', 50)] + '...' %}
         {% endif %}
         <a title="{{ alt_title }}"
