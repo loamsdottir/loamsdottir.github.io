@@ -1,0 +1,6 @@
+tools/env
+tools/__pycache__
+cc/*
+archive.html
+index.html
+rss.xml

@@ -1,0 +1,11 @@
+{%- macro render(weburl, page_path, image_path, date, alt) %}
+<a href="{{weburl}}{{page_path}}">
+    <img width="300" 
+        height="auto"
+        src="{{weburl}}{{image_path}}" />
+</a>
+<br />
+{{ date.strftime('%B %d, %Y') }}. {{ alt }}
+{%- endmacro %}
+
+
