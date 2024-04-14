@@ -7,6 +7,17 @@
 2024-04-07 An admission
 2024-04-08 A clarification
 2024-04-09 Further explanation
+2024-04-10 Well-wishing
+2024-04-11 In closing
+2024-04-12 BZP!
+2024-04-13 A reaction
+2024-04-14 A consideration
+2024-04-15 Has the time come...?
+2024-04-16 A pause...
+2024-04-17 A suggestion
+2024-04-18 Preparation
+2024-04-19 Letting loose
+
 
 2023-01-01 the cutebot calendar    guest art by Allison Thomas    alliartist.com
 2023-01-02 the cutebot calendar    guest art by Allison Thomas    alliartist.com
@@ -1686,7 +1697,4 @@
 2017-04-02 Comic for April 2, 2017
 2017-04-01 Comic for April 1, 2017
 
-2024-04-13 A reaction
-2024-04-12 BZP!
-2024-04-11 In closing
-2024-04-10 Well-wishing
+
