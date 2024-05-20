@@ -46,7 +46,8 @@
 2024-05-16 A reflex
 2024-05-17 SPLOOSH
 2024-05-18 An exit
-2024-05-18 A greeting
+2024-05-19 A greeting
+2024-05-20 heLLO!
 
 2023-01-01 the cutebot calendar    guest art by Allison Thomas    alliartist.com
 2023-01-02 the cutebot calendar    guest art by Allison Thomas    alliartist.com
