@@ -49,7 +49,11 @@
 2024-05-19 A greeting
 2024-05-20 heLLO!
 2024-05-21 Just Fine
-
+2024-05-22 Unsuccessful/Successful
+2024-05-23 What-now
+2024-05-24 Compartmentalization
+2024-05-25 Kinda sounds like 
+ 
 2023-01-01 the cutebot calendar    guest art by Allison Thomas    alliartist.com
 2023-01-02 the cutebot calendar    guest art by Allison Thomas    alliartist.com
 2023-01-03 the cutebot calendar    guest art by Allison Thomas    alliartist.com
