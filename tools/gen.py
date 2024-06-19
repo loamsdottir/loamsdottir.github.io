@@ -109,13 +109,9 @@ def process_alt_data(comic_data, cutoff_date):
 def find_next_prev(data):
     for i in range(0, len(data)):
         if i != 0:
-            next = data[i].date + timedelta(days=+1)
-            if next == data[i-1].date:
-                data[i].next = data[i-1]
+            data[i].next = data[i-1]
         if i != len(data) - 1:
-            prev = data[i].date + timedelta(days=-1)
-            if(prev == data[i+1].date):
-                data[i].prev = data[i+1]
+            data[i].prev = data[i+1]
         if i == 0:
             data[i].month_header = data[i].date.strftime("%B %Y")
         else:
