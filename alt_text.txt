@@ -89,6 +89,7 @@
 2024-06-28  Pants administration
 2024-06-29  pause
 2024-06-30  How are they doing?
+2024-07-01  Expected Ranges
 
 2023-01-01 the cutebot calendar    guest art by Allison Thomas    alliartist.com
 2023-01-02 the cutebot calendar    guest art by Allison Thomas    alliartist.com
