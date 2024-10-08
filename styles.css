@@ -22,6 +22,7 @@ body {
   background-repeat: repeat;
     font-family: sans-serif;
     text-align: center;
+    word-wrap: break-word;
     max-width: 540px;
     min-height: 100%;
     margin-left: auto;
