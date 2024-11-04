@@ -5,7 +5,7 @@ on:
   push:
     branches: ["main"]
   schedule:
-  - cron: "5 6 * * *" # 6:05 UTC == midnight MT
+  - cron: "5 7 * * *" # 6:05 UTC == midnight MT
   # Cron syntax is:
   # minute hour day month day_of_the_week
   # See https://crontab.guru/ for more information
