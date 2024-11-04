@@ -207,6 +207,7 @@
 2024-11-02  Loser
 2024-11-03  Words
 2024-11-04  Scavenge
+2024-11-05  Assertions
 
 2023-01-01 the cutebot calendar    guest art by Allison Thomas    alliartist.com
 2023-01-02 the cutebot calendar    guest art by Allison Thomas    alliartist.com
